@@ -1,4 +1,4 @@
-# A3 Basic Animation
+# A4 Basic Animation
 
 Assignment No 4 for the computer graphics course. 
 
