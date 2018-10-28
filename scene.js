@@ -101,7 +101,7 @@ function loadObj() {
         objLoader = new THREE.OBJLoader();
     }
     objLoader.load(
-        '../models/stickman.obj',
+        'models/stickman.obj',
         function(object) {
             animateObject(object);
         },
